@@ -27,6 +27,32 @@
      <string>PushButton1</string>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>180</y>
+      <width>231</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add by Pongsit 1</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>240</y>
+      <width>231</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add by Pongsit 2</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
   <widget class="QMenuBar" name="menuBar">
